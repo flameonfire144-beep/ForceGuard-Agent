@@ -1,6 +1,0 @@
-{
-  "name": "FocusGuard Agent",
-  "description": "The employee-side FocusGuard app that enforces app-locking rules pushed remotely by an admin.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

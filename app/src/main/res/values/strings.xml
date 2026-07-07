@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FocusGuard Agent</string>
+    <string name="accessibility_service_description">Enforces focus rules and locks distracting apps during designated work hours.</string>
+    <string name="accessibility_service_label">FocusGuard App Blocker</string>
+    <string name="device_admin_description">Prevents unauthorized removal or disabling of FocusGuard app-locking rules.</string>
+    <string name="device_admin_label">FocusGuard Security Admin</string>
+</resources>
